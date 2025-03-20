@@ -25,7 +25,7 @@
 * Ağırlık Başlatma Teknikleri<br>
 * Loss Fonksiyonları ve Backpropagation<br>
 
-📌 [3. Görüntü İşleme ve Convolutional Neural Networks (CNNs)](#thisll-be-a-helpful-section-about-the-greek-letter-Θ)<br>
+## 📌 [3. Görüntü İşleme ve Convolutional Neural Networks (CNNs)](#thisll-be-a-helpful-section-about-the-greek-letter-Θ)<br>
 🎯 Görüntü işlemede derin öğrenme yöntemlerini anlamak için.<br>
 📂 Playlist: Computer Vision & CNNs<br>
 <br>
