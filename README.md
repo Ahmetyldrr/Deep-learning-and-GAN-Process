@@ -48,3 +48,35 @@
 * GAN’ler ile Metin Üretimi (SeqGAN, TextGAN)<br>
 
 
+## 📌 [5. Generative Adversarial Networks (GANs) Temelleri](#thisll-be-a-helpful-section-about-the-greek-letter-Θ)<br>
+🎯 GAN'lerin çalışma mantığını öğrenmek için.<br>
+📂 Playlist: GAN Fundamentals<br>
+
+* GAN Temelleri (Generator, Discriminator, Adversarial Loss)<br>
+* Klasik GAN Mimarisinin Çalışma Mantığı<br>
+* Mode Collapse Sorunu ve Çözümleri<br>
+* GAN’lerde Eğitim Stabilizasyon Teknikleri<br>
+* Conditional GANs (cGANs)<br>
+
+## 📌 [6. Görüntü Üreten GAN Modelleri) Temelleri](#thisll-be-a-helpful-section-about-the-greek-letter-Θ)<br>
+🎯 Resim üretmek için kullanılan GAN’ler üzerine derinlemesine bir playlist.<br>
+📂 Playlist: Image Generation with GANs<br>
+
+* DCGAN (Deep Convolutional GAN)<br>
+* StyleGAN ve StyleGAN2 ile Gerçekçi Yüz Üretimi<br>
+* CycleGAN ile Görüntü Dönüşümü (Zebraları Atlara Çevirmek vb.)<br>
+* Pix2Pix ile Görüntü Tamamlama<br>
+* Super-Resolution GANs (SRGAN, ESRGAN)<br>
+
+
+## 📌 [7. Müzik ve Ses Üreten GAN Modelleri](#thisll-be-a-helpful-section-about-the-greek-letter-Θ)<br>
+🎯 GAN’lerle müzik ve ses sentezi yapmayı öğrenmek için.<br>
+📂 Playlist: Music & Audio Generation with GANs<br>
+
+* MuseGAN ile Müzik Üretimi<br>
+* WaveGAN ile Ses Üretimi<br>
+* Audio-to-Audio GAN’ler<br>
+* Yapay Konuşma Üretimi (Text-to-Speech GANs)<br>
+
+
+
