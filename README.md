@@ -1,6 +1,6 @@
 # Deep-learning-and-GAN-Process Playist Plan
 
-## 📌[1 . Yapay Zeka ve Derin Öğrenmeye Giriş](https://github.com/Ahmetyldrr/Deep-learning-and-GAN-Process/blob/main/Yapay%20Zeka%20ve%20Derin%20%C3%96%C4%9Frenmeye%20Giri%C5%9F.md)
+## 📌[1 . Yapay Zeka ve Derin Öğrenmeye Giriş](https://github.com/Ahmetyldrr/Deep-learning-and-GAN-Process/blob/main/1%20-%20Yapay%20Zeka%20ve%20Derin%20%C3%96%C4%9Frenmeye%20Giri%C5%9F.md)
 
 🎯 Bu playlist, yapay zekanın temel kavramlarını ve deep learning'in mantığını anlamak için oluşturuldu. <br>
 📂 Playlist: Playlist: AI & Deep Learning Fundamentals<br>
