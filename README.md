@@ -36,3 +36,15 @@
 * Autoencoders ve Anomali Tespiti<br>
 * Super Resolution ve Image Enhancement<br>
 
+
+## 📌 [4. Doğal Dil İşleme (NLP) ve Transformer Modelleri](#thisll-be-a-helpful-section-about-the-greek-letter-Θ)<br>
+🎯 Metin verisi ile çalışan modelleri öğrenmek için.<br>
+📂 Playlist: NLP & Transformers<br>
+
+* Tokenization ve Word Embeddings (Word2Vec, GloVe, FastText)<br>
+* RNN, LSTM ve GRU ile Dil Modellemesi<br>
+* Transformer Temelleri (Self-Attention, Multi-Head Attention)<br>
+* BERT, GPT, T5 gibi büyük dil modelleri<br>
+* GAN’ler ile Metin Üretimi (SeqGAN, TextGAN)<br>
+
+
