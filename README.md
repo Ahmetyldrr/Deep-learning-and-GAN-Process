@@ -98,7 +98,7 @@
 * Medikal Görüntü Üretimi (MRI, CT Scan Üretimi)<br>
 * Endüstriyel Uygulamalar için GAN Kullanımı<br>
 
-## 📌 [10. İleri Seviye GAN Teknikleri](#thisll-be-a-helpful-section-about-the-greek-letter-Θ)<br>
+## 📌 [10. İleri Seviye GAN Teknikleri](https://github.com/Ahmetyldrr/Deep-learning-and-GAN-Process/blob/main/10%20-%20%20%C4%B0leri%20Seviye%20GAN%20Teknikleri%20.md)<br>
 🎯 Gelişmiş GAN teknikleri ile daha kaliteli çıktılar üretmek için.<br>
 📂 Playlist: Advanced GAN Techniques<br>
 
