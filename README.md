@@ -79,7 +79,7 @@
 * Yapay Konuşma Üretimi (Text-to-Speech GANs)<br>
 
 
-## 📌 [8. Video ve Hareket Üreten GAN Modelleri](#thisll-be-a-helpful-section-about-the-greek-letter-Θ)<br>
+## 📌 [8. Video ve Hareket Üreten GAN Modelleri](https://github.com/Ahmetyldrr/Deep-learning-and-GAN-Process/blob/main/8%20-%20Video%20ve%20Hareket%20%C3%9Creten%20GAN%20Modelleri.md)<br>
 🎯 GAN’lerle video ve hareket simülasyonu oluşturmayı öğrenmek için.<br>
 📂 Playlist: Video & Motion Generation with GANs<br>
 
