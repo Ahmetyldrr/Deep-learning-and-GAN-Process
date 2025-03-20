@@ -58,7 +58,7 @@
 * GAN’lerde Eğitim Stabilizasyon Teknikleri<br>
 * Conditional GANs (cGANs)<br>
 
-## 📌 [6. Görüntü Üreten GAN Modelleri) Temelleri](#thisll-be-a-helpful-section-about-the-greek-letter-Θ)<br>
+## 📌 [6. Görüntü Üreten GAN Modelleri Temelleri](#thisll-be-a-helpful-section-about-the-greek-letter-Θ)<br>
 🎯 Resim üretmek için kullanılan GAN’ler üzerine derinlemesine bir playlist.<br>
 📂 Playlist: Image Generation with GANs<br>
 
@@ -77,6 +77,45 @@
 * WaveGAN ile Ses Üretimi<br>
 * Audio-to-Audio GAN’ler<br>
 * Yapay Konuşma Üretimi (Text-to-Speech GANs)<br>
+
+
+## 📌 [8. Video ve Hareket Üreten GAN Modelleri](#thisll-be-a-helpful-section-about-the-greek-letter-Θ)<br>
+🎯 GAN’lerle video ve hareket simülasyonu oluşturmayı öğrenmek için.<br>
+📂 Playlist: Video & Motion Generation with GANs<br>
+
+* MoCoGAN (Motion-Conditioned GANs)<br>
+* Temporal GAN’ler ile Video Üretimi<br>
+* Face-Swap GAN (DeepFake Mantığı)<br>
+* Real-Time GAN’ler ile Canlı Video Manipülasyonu<br>
+
+
+ 
+## 📌 [9. GAN'ler ile Veri Artırma ve Gerçekçi Örnekler Üretme](#thisll-be-a-helpful-section-about-the-greek-letter-Θ)<br>
+🎯 GAN’leri veri üretmek için kullanmayı öğrenmek için.<br>
+📂 Playlist: Data Augmentation with GANs<br>
+
+* GAN’lerle Gerçekçi Veri Üretme (Veri Azlığı Problemini Çözmek)<br>
+* Medikal Görüntü Üretimi (MRI, CT Scan Üretimi)<br>
+* Endüstriyel Uygulamalar için GAN Kullanımı<br>
+
+## 📌 [10. İleri Seviye GAN Teknikleri](#thisll-be-a-helpful-section-about-the-greek-letter-Θ)<br>
+🎯 Gelişmiş GAN teknikleri ile daha kaliteli çıktılar üretmek için.<br>
+📂 Playlist: Advanced GAN Techniques<br>
+
+* Wasserstein GAN (WGAN, WGAN-GP)<br>
+* Self-Supervised Learning ile GAN Eğitimi<br>
+* Few-shot ve One-shot Learning GAN Modelleri<br>
+* Diffusion Models vs GANs<br>
+
+
+## 📌 [11. GAN’lerin Dağıtımı ve Gerçek Dünya Uygulamaları](#thisll-be-a-helpful-section-about-the-greek-letter-Θ)<br>
+🎯 Eğitilmiş GAN modellerini üretime almak için.<br>
+📂 Playlist: Deploying GANs & Real-World Applications<br>
+
+* PyTorch ve TensorFlow ile GAN Eğitimi<br>
+* GAN’lerin API olarak Yayınlanması<br>
+* Gerçek Zamanlı Uygulamalar için Optimizasyon<br>
+* GAN'lerin Siber Güvenlik, Medikal, Sanat Alanlarındaki Kullanımı<br>
 
 
 
