@@ -1,4 +1,4 @@
-# 2 - Derin Sinir Ağları ve Model Eğitimi  
+
 🎯 **Sinir ağlarının matematiğini, katman yapılarını ve optimizasyon tekniklerini anlamak için.**  
 📂 **Playlist: Neural Networks & Training Techniques**  
 
