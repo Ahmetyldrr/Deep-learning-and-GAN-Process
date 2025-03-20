@@ -1,7 +1,3 @@
-# 1️⃣ Yapay Zeka ve Derin Öğrenmeye Giriş  
-🎯 **Bu playlist, yapay zekanın temel kavramlarını ve deep learning'in mantığını anlamak için oluşturuldu.**  
-📂 **Playlist: AI & Deep Learning Fundamentals**  
-
 ## ✅ Yapay Zekaya Genel Bakış  
 - **Yapay Zeka Nedir?** (Tanım ve Tarihçe)  
 - **Makine Öğrenmesi vs Derin Öğrenme vs Geleneksel Programlama**  
