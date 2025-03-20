@@ -13,7 +13,7 @@
 * GPU ve TPU Kullanımı<br>
 
 
-## 📌[ 2. Derin Sinir Ağları ve Model Eğitimi](#thisll-be-a-helpful-section-about-the-greek-letter-Θ) <br>
+## 📌[ 2. Derin Sinir Ağları ve Model Eğitimi](https://github.com/Ahmetyldrr/Deep-learning-and-GAN-Process/blob/main/2%20-%20Derin%20Sinir%20A%C4%9Flar%C4%B1%20ve%20Model%20E%C4%9Fitimi.md) <br>
 
 🎯 Sinir ağlarının matematiğini, katman yapılarını ve optimizasyon tekniklerini anlamak için. <br>
 📂 Playlist: Neural Networks & Training Techniques<br>
