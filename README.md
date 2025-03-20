@@ -37,7 +37,7 @@
 * Super Resolution ve Image Enhancement<br>
 
 
-## 📌 [4. Doğal Dil İşleme (NLP) ve Transformer Modelleri]([#thisll-be-a-helpful-section-about-the-greek-letter-Θ](https://github.com/Ahmetyldrr/Deep-learning-and-GAN-Process/blob/main/4%20-%20Do%C4%9Fal%20Dil%20%C4%B0%C5%9Fleme%20(NLP)%20ve%20Transformer%20Modelleri.md))<br>
+## 📌 [4. Doğal Dil İşleme (NLP) ve Transformer Modelleri](https://github.com/Ahmetyldrr/Deep-learning-and-GAN-Process/blob/main/4%20-%20Do%C4%9Fal%20Dil%20%C4%B0%C5%9Fleme%20(NLP)%20ve%20Transformer%20Modelleri.md)<br>
 🎯 Metin verisi ile çalışan modelleri öğrenmek için.<br>
 📂 Playlist: NLP & Transformers<br>
 
