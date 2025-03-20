@@ -1,7 +1,4 @@
 
-🎯 **Sinir ağlarının matematiğini, katman yapılarını ve optimizasyon tekniklerini anlamak için.**  
-📂 **Playlist: Neural Networks & Training Techniques**  
-
 ## ✅ Yapay Sinir Ağları (Artificial Neural Networks - ANN)  
 - **Sinir Ağlarının Temelleri**  
   - Yapay sinir ağlarının biyolojik ilham kaynağı  
