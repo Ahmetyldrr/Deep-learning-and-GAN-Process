@@ -2,7 +2,9 @@
 
 ## [1 . Yapay Zeka ve Derin Öğrenmeye Giriş](#thisll-be-a-helpful-section-about-the-greek-letter-Θ)
 
-Bu playlist, yapay zekanın temel kavramlarını ve deep learning'in mantığını anlamak için oluşturuldu.
+🎯 Bu playlist, yapay zekanın temel kavramlarını ve deep learning'in mantığını anlamak için oluşturuldu. <br>
+📂 Playlist: Playlist: AI & Deep Learning Fundamentals<br>
+
 
 * Yapay Zekaya Giriş <br>
 * Makine Öğrenmesi (Supervised, Unsupervised, Reinforcement Learning) <br>
