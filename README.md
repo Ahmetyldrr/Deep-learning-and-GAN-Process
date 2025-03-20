@@ -90,7 +90,7 @@
 
 
  
-## 📌 [9. GAN'ler ile Veri Artırma ve Gerçekçi Örnekler Üretme](#thisll-be-a-helpful-section-about-the-greek-letter-Θ)<br>
+## 📌 [9. GAN'ler ile Veri Artırma ve Gerçekçi Örnekler Üretme](https://github.com/Ahmetyldrr/Deep-learning-and-GAN-Process/blob/main/9%20-%20GAN'ler%20ile%20Veri%20Art%C4%B1rma%20ve%20Ger%C3%A7ek%C3%A7i%20%C3%96rnekler%20%C3%9Cretme.md)<br>
 🎯 GAN’leri veri üretmek için kullanmayı öğrenmek için.<br>
 📂 Playlist: Data Augmentation with GANs<br>
 
