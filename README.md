@@ -48,7 +48,7 @@
 * GAN’ler ile Metin Üretimi (SeqGAN, TextGAN)<br>
 
 
-## 📌 [5. Generative Adversarial Networks (GANs) Temelleri]https://github.com/Ahmetyldrr/Deep-learning-and-GAN-Process/blob/main/5%20-%20Generative%20Adversarial%20Networks%20(GANs)%20Temelleri.md)<br>
+## 📌 [5. Generative Adversarial Networks (GANs) Temelleri](https://github.com/Ahmetyldrr/Deep-learning-and-GAN-Process/blob/main/5%20-%20Generative%20Adversarial%20Networks%20(GANs)%20Temelleri.md)<br>
 🎯 GAN'lerin çalışma mantığını öğrenmek için.<br>
 📂 Playlist: GAN Fundamentals<br>
 
