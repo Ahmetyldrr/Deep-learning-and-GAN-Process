@@ -58,7 +58,7 @@
 * GAN’lerde Eğitim Stabilizasyon Teknikleri<br>
 * Conditional GANs (cGANs)<br>
 
-## 📌 [6. Görüntü Üreten GAN Modelleri Temelleri](#thisll-be-a-helpful-section-about-the-greek-letter-Θ)<br>
+## 📌 [6. Görüntü Üreten GAN Modelleri Temelleri](https://github.com/Ahmetyldrr/Deep-learning-and-GAN-Process/blob/main/6%20-%20G%C3%B6r%C3%BCnt%C3%BC%20%C3%9Creten%20GAN%20Modelleri%20Temelleri.md)<br>
 🎯 Resim üretmek için kullanılan GAN’ler üzerine derinlemesine bir playlist.<br>
 📂 Playlist: Image Generation with GANs<br>
 
