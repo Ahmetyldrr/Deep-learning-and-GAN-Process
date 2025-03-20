@@ -2,7 +2,7 @@
 
 ## 1. Yapay Zeka ve Derin Öğrenmeye Giriş
 
- [1 - Yapay Zeka ve Derin Öğrenmeye Giriş]([#sample-section](https://www.google.com.tr/))
+Link to the helpful section: [Yapay Zeka ve Derin Öğrenmeye Giriş](#thisll-be-a-helpful-section-about-the-greek-letter-Θ)
 
 Bu playlist, yapay zekanın temel kavramlarını ve deep learning'in mantığını anlamak için oluşturuldu.
 
