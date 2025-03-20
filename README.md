@@ -69,7 +69,7 @@
 * Super-Resolution GANs (SRGAN, ESRGAN)<br>
 
 
-## 📌 [7. Müzik ve Ses Üreten GAN Modelleri](#thisll-be-a-helpful-section-about-the-greek-letter-Θ)<br>
+## 📌 [7. Müzik ve Ses Üreten GAN Modelleri](https://github.com/Ahmetyldrr/Deep-learning-and-GAN-Process/blob/main/7%20-%20M%C3%BCzik%20ve%20Ses%20%C3%9Creten%20GAN%20Modelleri%20.md)<br>
 🎯 GAN’lerle müzik ve ses sentezi yapmayı öğrenmek için.<br>
 📂 Playlist: Music & Audio Generation with GANs<br>
 
