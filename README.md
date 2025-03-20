@@ -108,7 +108,7 @@
 * Diffusion Models vs GANs<br>
 
 
-## 📌 [11. GAN’lerin Dağıtımı ve Gerçek Dünya Uygulamaları](#thisll-be-a-helpful-section-about-the-greek-letter-Θ)<br>
+## 📌 [11. GAN’lerin Dağıtımı ve Gerçek Dünya Uygulamaları](https://github.com/Ahmetyldrr/Deep-learning-and-GAN-Process/blob/main/11%20-%20GAN%E2%80%99lerin%20Da%C4%9F%C4%B1t%C4%B1m%C4%B1%20ve%20Ger%C3%A7ek%20D%C3%BCnya%20Uygulamalar%C4%B1.md)<br>
 🎯 Eğitilmiş GAN modellerini üretime almak için.<br>
 📂 Playlist: Deploying GANs & Real-World Applications<br>
 
